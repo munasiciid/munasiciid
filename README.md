@@ -2,7 +2,7 @@
 
 Hi 👋 I’m **Muna Siciid**
 <p align="center">
-  <img src="about-me.png" alt="About Me Illustration" width="400"/>
+  <img src="giphy.gif" alt="About Me Illustration" width="400"/>
 </p>
 </p>
 
