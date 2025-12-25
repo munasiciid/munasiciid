@@ -2,8 +2,8 @@
 
 Hi 👋 I’m **Muna Siciid**
 <p align="center">
-  <img src="about-![mmmm](https://github.com/user-attachments/assets/21bc8cf0-5e87-4b6c-bbc5-f6d01fca4414)
-" alt="About Me Illustration" width="400"/>
+  <img src="about-me.png" alt="About Me Illustration" width="400"/>
+</p>
 </p>
 
 
