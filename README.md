@@ -1,16 +1,37 @@
 ## Hi there 👋
 
 <!--
-**munasiciid/munasiciid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
 
-Here are some ideas to get you started:
+Hi 👋 I’m **Muna Siciid**
+<p align="center">
+  <img src="about-me.png" alt="About Me Illustration" width="400"/>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
+🔭 I’m a **Full-Stack Developer** and Software Engineering student  
+🌱 I’m currently learning **React Native, TypeScript, and Next.js**  
+💬 Ask me about **Web Development, JavaScript, Java, and Full-Stack Technologies**  
+⚡ Fun fact: **I love challenges and learning new technologies**
+
+---
+
+## 🌍 Connect with Me
+
+- 🌐 Facebook  
+- 💼 LinkedIn  
+
+---
+
+## 📊 GitHub Stats
+
+🔥 **GitHub Streak**  
+![GitHub Streak](https://streak-stats.demolab.com?user=munasicid)
+
+📈 **GitHub Stats**  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=munasicid&show_icons=true)
+
+💻 **Top Languages**  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=munasicid&layout=compact)
+
 -->
